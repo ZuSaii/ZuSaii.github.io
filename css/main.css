@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: black;
+    background-color: tomato;
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -14,11 +14,11 @@ body {
 
 main {
     padding: 24px;
-    background-color: gray;
+    background-color: white;
     border-radius: 8px;
     font-family: 'Inter', sans-serif;
 }
 
 h1 {
-    color: white;
+    color: black;
 }
