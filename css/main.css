@@ -13,5 +13,10 @@ body {
 }
 
 main {
+    padding: 24px;
     background-color: gray;
+}
+
+h1 {
+    color: white;
 }
