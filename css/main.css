@@ -15,6 +15,8 @@ body {
 main {
     padding: 24px;
     background-color: gray;
+    border-radius: 8px;
+    font-family: 'Inter', sans-serif;
 }
 
 h1 {
