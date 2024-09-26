@@ -13,10 +13,18 @@ body {
 }
 
 main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     padding: 24px;
     background-color: white;
     border-radius: 8px;
     font-family: 'Inter', sans-serif;
+}
+
+img {
+    width: 32px;
+    height: 32px;
 }
 
 h1 {
